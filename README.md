@@ -1,5 +1,6 @@
 
 ### Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity [ICML 2026]
+This repository contains the code to reproduce the experiments present in our paper titled [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](https://openreview.net/pdf?id=b7P2WegaBY)
 
 ## Downloading Datasets
 > Datasets for PMNIST, CIFAR-100, and 5-dataset will be automatically downloaded.  
