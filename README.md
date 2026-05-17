@@ -8,7 +8,12 @@ This repository contains the code to reproduce the experiments present in our pa
 
 ## Citation
 ```
-@article{1
+@inproceedings{
+zheng2026plasticity,
+title={Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity},
+author={Guodong Zheng  and Enneng Yang and Xiaoyan Wang and Yihan Chen and Feihong He and Quan Zheng and Peng Wang and Li Shen},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026}
 }
 ```
 
